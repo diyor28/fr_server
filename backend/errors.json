@@ -1,0 +1,7 @@
+{
+  "100": "Incorrect old_password",
+  "101": "Incorrect password",
+  "102": "Password is required to update the token",
+  "103": "Cannot set password in patch method, please use /users/{id}/reset-password/",
+  "3": "Password is required to reset the email"
+}
